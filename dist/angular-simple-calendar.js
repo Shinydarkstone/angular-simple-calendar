@@ -1,4 +1,4 @@
-angular.module('500tech.simple-calendar', []).directive('simpleCalendar', function () {
+angular.module('simple-calendar', []).directive('simpleCalendar', function () {
   return {
     restrict: 'E',
     scope: {
