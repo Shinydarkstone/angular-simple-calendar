@@ -18,12 +18,12 @@ Add to index.html:
 <script type="text/javascript" src="bower_components/angular-simple-calendar/dist/angular-simple-calendar.js"></script>
 ```
 
-Inject ``'500tech.simple-calendar'`` into your main module:
+Inject ``'simple-calendar'`` into your main module:
 
 ```javascript
 angular.module('App', [
   // ... other dependencies
-  '500tech.simple-calendar'
+  'simple-calendar'
 ])
 ```
 
