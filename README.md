@@ -3,14 +3,6 @@
 Simple customizable AngularJS calendar with no dependencies. Supports simple events (only date and title).
 
 
-## Install
-
-Install via bower:
-
-```bash
-bower install --save angular-simple-calendar
-```
-
 Add to index.html:
 
 ```html
